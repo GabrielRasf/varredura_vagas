@@ -38,7 +38,7 @@ O programa é utilizado na sua IDE ou editor de código.
 ### 9. Autores
 Gabriel R.
 ### 10. Problemas Conhecidos
-!!!
+!!!  
 =*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*
 ## Job Search Scraper
 ### 1. Project Title

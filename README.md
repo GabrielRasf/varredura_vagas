@@ -21,12 +21,12 @@ Python
   python --version OU python3 --version  
   pip --version
 - Instalando dependências
-- Requests
-  pip install requests
-- BeautifulSoup
-  pip install beautifulsoap4
-- googlesearch
-pip install googlesearch-python
+- Requests  
+  pip install requests  
+- BeautifulSoup  
+  pip install beautifulsoap4  
+- googlesearch  
+pip install googlesearch-python  
 Como clonar o repositório.
 Como instalar dependências (usando pip, npm, etc.).
 Passos para rodar o projeto localmente (ex.: python app.py ou npm start).

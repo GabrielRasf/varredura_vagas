@@ -6,6 +6,8 @@
 ## Varredura de Vagas
 ## Job Search Scraper
 
+=*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*
+
 ### 1. Título do Projeto
 VarreVagas
 ### 1. Project Title
@@ -76,8 +78,7 @@ Gabriel R.
 ### 9. Problemas Conhecidos
 !!!  
 ### 9. Known Issues
-!!! (List known issues here)
-=*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*==*=*
+!!!  
 
 
 

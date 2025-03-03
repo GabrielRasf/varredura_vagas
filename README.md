@@ -1,6 +1,6 @@
 ## Varredura de Vagas
 
-###1. Título do Projeto
+### 1. Título do Projeto
 VarreVagas
 2. Descrição
 Um código simples para varrer vagas no google a partir de palavras-chaves específicas

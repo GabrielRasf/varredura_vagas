@@ -2,25 +2,25 @@
 
 ### 1. Título do Projeto
 VarreVagas
-2. Descrição
+### 2. Descrição
 Um código simples para varrer vagas no google a partir de palavras-chaves específicas
-3. Status do Projeto
-4. Em desenvolvimento mas já em fase de testes"
-5. Funcionalidades
+### 3. Status do Projeto
+### 4. Em desenvolvimento mas já em fase de testes"
+### 5. Funcionalidades
 - Buscar vagas por interesse (implementado)
 - Buscar vagas por local (em desenvolvimento)
 - Buscar vagas por data de cadastro (em desenvolvimento)
-6. Tecnologias Utilizadas
+### 6. Tecnologias Utilizadas
 Python
-7. Instalação
+### 7. Instalação
   Requisitos de pré-instalação:
-- Python
+#### - Python
   https://www.python.org/downloads/  
   ! Importante marcar "Add Python to PATH"  
   Verifique a instalação:  
   python --version OU python3 --version  
   pip --version
-- Instalando dependências
+#### - Instalando dependências
 - Requests  
   pip install requests  
 - BeautifulSoup  

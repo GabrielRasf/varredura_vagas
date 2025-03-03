@@ -53,7 +53,7 @@ pip install googlesearch-python
 ### 6. Installation
 Prerequisites:  
 #### - Python
-Download from: https://www.python.org/downloads/  
+https://www.python.org/downloads/  
 Important: Make sure to check "Add Python to PATH" during installation.  
 Verify installation:  
 python --version OR python3 --version  

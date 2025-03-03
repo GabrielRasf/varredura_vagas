@@ -26,9 +26,9 @@ In development but already in the testing phase
 - Buscar vagas por local (em desenvolvimento)
 - Buscar vagas por data de cadastro (em desenvolvimento)
 ### 4. Features
-Search job listings by interest (implemented)
-Search job listings by location (in development)
-Search job listings by posting date (in development)
+- Search job listings by interest (implemented)  
+- Search job listings by location (in development)  
+- Search job listings by posting date (in development)  
 
 ### 5. Tecnologias Utilizadas
 Python
@@ -38,7 +38,7 @@ Python
 ### 6. Instalação
   Requisitos de pré-instalação:
 #### - Python
-  https://www.python.org/downloads/ 
+  https://www.python.org/downloads/  
   ! Importante marcar "Add Python to PATH"  
   Verifique a instalação:  
   python --version OU python3 --version  
@@ -60,11 +60,11 @@ python --version OR python3 --version
 pip --version
 #### - Installing dependencies
 - Requests
-pip install requests
-- BeautifulSoup
-pip install beautifulsoup4
-- googlesearch-python
-pip install googlesearch-python
+pip install requests  
+- BeautifulSoup  
+pip install beautifulsoup4  
+- googlesearch-python  
+pip install googlesearch-python  
 ### 7. Uso
 O programa é utilizado na sua IDE ou editor de código.
 ### 7. Usage
